@@ -7,17 +7,15 @@
 
 - 🌱 I’m currently learning **Tensorflow and deep learning models error analysis**
 
-- 👯 I’m looking for an internship in **Deep learning , data science or Machine learning field**
-
 - 🤝 I’m searching for a team to join **Kaggle competitions**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/Zeyad-Abdelreheem](https://github.com/Zeyad-Abdelreheem)
 
 - 📝 I usually write articles on [https://www.linkedin.com/in/zeyad-omar/](https://www.linkedin.com/in/zeyad-omar/)
 
-- 💬 Ask me about **Deep learning , Machine learning , tensorflow or python**
+- 💬 Ask me about **Deep learning, Machine learning, TensorFlow or python**
 
-- 📫 How to reach me ? **zeyadabdelreheem@gmail.com**
+- 📫 How to reach me? **zeyadabdelreheem@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PzjTimN0eOSzfn4-LXktIsGA8Hj04V_H/view?usp=sharing](https://drive.google.com/file/d/1PzjTimN0eOSzfn4-LXktIsGA8Hj04V_H/view?usp=sharing)
 
